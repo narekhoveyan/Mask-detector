@@ -4,7 +4,6 @@ from keras.layers import RandomFlip, RandomRotation, RandomZoom
 from keras.src.layers import MaxPooling2D, AveragePooling2D
 from keras.optimizers import RMSprop, Adam
 from keras.callbacks import ModelCheckpoint, EarlyStopping, TensorBoard
-
 import config
 
 
