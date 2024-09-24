@@ -29,7 +29,7 @@ python detect_in_real_time.py
 
 
 
-Model has outputs 3 states - correctly, incorrectly, not wearing
+Model has outputs 3 states - correctly wearing, incorrectly wearing, not wearing
 
 OpenCV was used to detect faces.
 
