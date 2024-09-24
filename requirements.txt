@@ -1,4 +1,4 @@
 tensorflow==2.15.0
-numpy
-cv2
-scikit-learn
+numpy==1.26.4
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
